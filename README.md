@@ -10,7 +10,8 @@ If you want to build the code yourself, you can open main.bb in Blitz3D and run 
 
 ### Known Issues
 
-* The game appears to run fine in windowed mode, but when I switched to full screen, my antivirus software apparently did not like the way that Blitz3D goes fullscreen and blocked the program from running.
+* The game appears to run fine in windowed mode, but when I switched to full screen, the game crashed.
+* The delete button does not appear to work properly in the load game screen.
 
 ### Credits
 
