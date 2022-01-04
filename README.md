@@ -8,6 +8,14 @@ The goal of the game is to break all of the bricks, or treasure chests, using th
 
 If you want to build the code yourself, you can open main.bb in Blitz3D and run or compile it.  Make sure debug mode is disabled because it makes the game run too slow.
 
+### Known Issues
+
+* The game appears to run fine in windowed mode, but when I switched to full screen, my antivirus software apparently did not like the way that Blitz3D goes fullscreen and blocked the program from running.
+
+### Credits
+
+The game uses the B3D Extensions, Devil Particle System, Devil Shadow System, and Juicy Fonts libraries along with some other code pulled from the Blitz3D included code.  Music is from www.incompetech.com.  Art is by Jesse Hagerman, some is from the assets included with Blitz3D, a couple of textures came from CGTextures, other art is by me.  Sound effects are from Jesse Hagerman.
+
 ![Screenshot 1](screenshot1.png)
 
 ![Screenshot 2](screenshot2.png)
